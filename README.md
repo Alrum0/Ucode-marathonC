@@ -2,9 +2,9 @@
 | ----------- | ----------- | ----------- |
 | Sprint00    | The basics of UNIX systems (shell, terminal, UNIX utilities, git, etc).   | Ячейка 1    | 
 | Sprint01    | The basics of writing code in C (loops, variables, functions, etc).   | Ячейка 1    | 
-| Sprint02    | Standard functions and the basics of mathematics implementation in C.   | Ячейка 1    | 
+| Sprint02    | Standard functions and the basics of mathematics implementation in C.   | 97    | 
 | Sprint03    | Pointers in C and more complex algorithms.   | Ячейка 1    | 
-| Sprint04    | Arrays and derivative from them.   | Ячейка 1    | 
+| Sprint04    | Arrays and derivative from them.   | 99    | 
 | Sprint05    | Simple programs and command-line arguments.   | Ячейка 1    | 
 | Sprint06    | Own library and sorting algorithms.   | Ячейка 1    | 
 | Sprint07    | Memory allocation and memory management.   | Ячейка 1    | 
