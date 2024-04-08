@@ -10,7 +10,7 @@
 | Sprint07    | Memory allocation and memory management.   | -    | 
 | Sprint08    | Header files and structures.   | -    | 
 | Sprint09    | Makefile, macros, standard error, function pointers.   |  90  | 
-| Sprint010    | File I/O. Standard input and output.   | -    | 
+| Sprint10    | File I/O. Standard input and output.   | -    | 
 | Sprint11    | Linked list.   |  100  | 
 | Race00    | Representation of 3d cube and pyramid on the standard output.   |  100  | 
 | Race01    | Decode encrypted math expression.   |  100  | 
